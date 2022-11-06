@@ -1,2 +1,2 @@
-# basic-todolist-react
+# basictodolist
 Created with CodeSandbox
